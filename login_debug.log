@@ -1,0 +1,61 @@
+2025-04-10 06:45:55 - Login attempt started
+2025-04-10 06:45:55 - Email: admin01@gmail.com
+2025-04-10 06:45:55 - Password hash: 698d51a19d8a121ce581499d7b701668
+2025-04-10 06:45:55 - User found: Array
+(
+    [id] => 10
+    [name] => admin A
+    [email] => admin01@gmail.com
+    [password] => 698d51a19d8a121ce581499d7b701668
+    [user_type] => admin
+)
+
+2025-04-10 06:45:55 - Login successful! User type: admin
+2025-04-10 06:45:55 - Session data: Array
+(
+    [user_id] => 10
+    [user_type] => admin
+)
+
+2025-04-10 06:45:55 - Redirecting to admin_page.php
+2025-04-10 06:48:36 - Login attempt started
+2025-04-10 06:48:36 - Email: absarsh@gmail.com
+2025-04-10 06:48:36 - Password hash: 25d55ad283aa400af464c76d713c07ad
+2025-04-10 06:48:36 - User found: Array
+(
+    [id] => 16
+    [name] => saumya
+    [email] => absarsh@gmail.com
+    [password] => 25d55ad283aa400af464c76d713c07ad
+    [user_type] => caretaker
+)
+
+2025-04-10 06:48:36 - Login successful! User type: caretaker
+2025-04-10 06:48:36 - Session data: Array
+(
+    [user_id] => 16
+    [user_type] => caretaker
+)
+
+2025-04-10 06:48:36 - Login failed
+2025-04-10 06:49:17 - Login attempt started
+2025-04-10 06:49:17 - Email: admin01@gmail.com
+2025-04-10 06:49:17 - Password hash: 698d51a19d8a121ce581499d7b701668
+2025-04-10 06:49:17 - User found: Array
+(
+    [id] => 10
+    [name] => admin A
+    [email] => admin01@gmail.com
+    [password] => 698d51a19d8a121ce581499d7b701668
+    [user_type] => admin
+)
+
+2025-04-10 06:49:17 - Login successful! User type: admin
+2025-04-10 06:49:17 - Session data: Array
+(
+    [user_id] => 10
+    [user_type] => admin
+    [login_error] => Invalid credentials
+)
+
+2025-04-10 06:49:17 - Redirecting to admin_page.php

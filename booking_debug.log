@@ -1,0 +1,139 @@
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 2
+    [hourly_rate] => 0.00
+    [date] => 2025-04-10
+    [start_time] => 15:07
+    [hours] => 2
+)
+
+Transaction started
+Booking created
+ERROR: Unknown column 'added_at' in 'field list'
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 2
+    [hourly_rate] => 0.00
+    [date] => 2025-04-10
+    [start_time] => 15:11
+    [hours] => 2
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 3
+    [hourly_rate] => 444.00
+    [date] => 2025-04-10
+    [start_time] => 14:34
+    [hours] => 2
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 5
+    [hourly_rate] => 55.00
+    [date] => 2025-04-10
+    [start_time] => 17:22
+    [hours] => 2
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 2
+    [hourly_rate] => 0.00
+    [date] => 2025-04-10
+    [start_time] => 17:28
+    [hours] => 1
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 3
+    [hourly_rate] => 444.00
+    [date] => 2025-04-10
+    [start_time] => 17:41
+    [hours] => 1
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 5
+    [hourly_rate] => 55.00
+    [date] => 2025-04-11
+    [start_time] => 08:46
+    [hours] => 1
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 5
+    [hourly_rate] => 55.00
+    [date] => 2025-04-11
+    [start_time] => 10:56
+    [hours] => 1
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 14
+    [hourly_rate] => 50.00
+    [date] => 2025-04-11
+    [start_time] => 13:42
+    [hours] => 2
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
+=== NEW REQUEST ===
+Data Received: Array
+(
+    [caretaker_id] => 15
+    [hourly_rate] => 50.00
+    [date] => 2025-04-11
+    [start_time] => 15:40
+    [hours] => 2
+)
+
+Transaction started
+Booking created
+Added to cart
+Transaction committed
